@@ -11,7 +11,7 @@ language: zh-Hans
 timezone: Asia/Shanghai
 
 # URL
-url: http://yoursite.com
+url: http://ffun.in
 root: /
 permalink: :year/:month/:title/
 permalink_defaults:
@@ -39,7 +39,7 @@ future: true
 highlight:
   enable: true
   line_number: true
-  auto_detect: false
+  auto_detect: true
   tab_replace:
 
 # Category & Tag
@@ -60,10 +60,18 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: maupassant
 
 # Deployment
 deploy:
   type: git
   repo: git@github.com:ysymi/ysymi.github.io.git
   branch: master
+
+# RSS 
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
