@@ -46,8 +46,8 @@ echo -e "\e[32m绿色的字体哦\e[0m"
 
 直观的颜色：
 
-![常见的几种颜色](part-color-code.png)
-![常见的几种控制](part-color-code.png)
+![常见的几种颜色](shell-echo/part-color-code.png)
+![常见的几种控制](shell-echo/part-style-code.png)
 
 #### 两个有意思的脚本
 这个告诉我们，原来可以这样用变量设置颜色
