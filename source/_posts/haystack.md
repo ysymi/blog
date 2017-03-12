@@ -1,8 +1,15 @@
 ---
 title: haystack
 date: 2016-03-22 23:51:38
-tags:
+tags: [存储,分布式]
+toc: ture
 ---
+
+
+haystack 是Facebook 用于图片存储的一个分布式存储系统。最近因为工作需要，有幸接触到[这篇论文](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf)，留一个学习笔记吧。
+
+<!--more-->
+
 
 ### 场景
 每个数据只会写入一次、读操作频繁、从不修改、很少删除

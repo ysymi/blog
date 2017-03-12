@@ -7,6 +7,8 @@ tags: ubuntu
 中午瞌睡的时候 不小心把 /etc目录给删掉了 没有办法拷别人的etc 只好重装
 顺便记一下必备的工具
 
+<!--more-->
+
 #### 1. chrome 
 从[官网](https://www.google.com/chrome/browser/desktop/index.html)下载安装包
 ```bash

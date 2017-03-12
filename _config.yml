@@ -4,8 +4,8 @@
 
 # Site
 title: 厚积薄发
-subtitle: yesterday, you said tomorrow
-description: 努力是看不见的，能看见的只有结果
+subtitle: 努力是看不见的，能看见的只有结果
+description: FF的个人博客
 author: FF
 language: zh-cn
 timezone: Asia/Shanghai
@@ -31,7 +31,7 @@ new_post_name: :title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
-filename_case: 0
+filename_case: false
 render_drafts: false
 post_asset_folder: false
 relative_link: false
@@ -50,7 +50,7 @@ tag_map:
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
 date_format: YYYY-MM-DD
-time_format: HH:mm:ss
+time_format: H:mm:ss
 
 # Pagination
 ## Set per_page to 0 to disable pagination
@@ -63,10 +63,10 @@ pagination_dir: page
 theme: maupassant
 
 # Deployment
-deploy:
-  type: git
-  repo: git@github.com:ysymi/ysymi.github.io.git
-  branch: master
+# deploy:
+#  type: git
+#  repo: git@github.com:ysymi/ysymi.github.io.git
+#  branch: master
 
 # RSS 
 feed:
@@ -75,3 +75,6 @@ feed:
   limit: 20
   hub:
   content:
+
+douban:
+  user: 46146047

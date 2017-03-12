@@ -1,9 +1,12 @@
 ---
-title: test
+title: markdown语法速查
 date: 2016-02-12 00:07:35
-tags:
-- test
+tags: [markdown]
 ---
+
+markdown 是一种标记语言，轻量简单，和html兼容，旨在分离样式和内容，让人们把写作的重心放在内容上而不是排版。
+
+<!--more-->
 # 欢迎使用 Cmd Markdown 编辑阅读器
 
 ------

@@ -1,12 +1,12 @@
 ---
 title: What is WSGI
 date: 2016-03-09 16:52:39
-tags:
+tags: [python, wsgi]
 ---
 
-WSGI（Web Server Gateway Interface，Web服务器网关接口，读成'wiz-gee'？）
-是Python语言定义的server或gateway与client或framework之间的一种简单而通用的接口，是一种标准，规范
+WSGI（Web Server Gateway Interface，Web服务器网关接口，读成'wiz-gee'？）是Python语言定义的server或gateway与client或framework之间的一种简单而通用的接口，是一种标准，规范
 
+<!--more-->
 之前，Web应用框架的选择将限制可用的Web服务器的选择，反之亦然。而统一了两者交互的接口之后，只要符合这个规范，就能更自由的选择框架和服务器的组合了，同时应用可移植性提高了。
 
 WSGI是基于现存的CGI标准而设计的。

@@ -1,11 +1,14 @@
 ---
-title: vim使用
+title: 学习vim--移动
 date: 2016-09-13 13:55:32
-tags: tool 
-    
-# Vim使用
-
+tags: [vim] 
+toc: ture
 ---
+
+移动分两种，一种是移动光标，一种是移动文本。
+
+<!--more-->
+
 
 ## 模式
 

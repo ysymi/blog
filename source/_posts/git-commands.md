@@ -1,8 +1,10 @@
 ---
-title: git-study-1
+title: git 常用命令 
 date: 2016-02-17 13:55:32
-tags: git 
+tags: [git]
 ---
+
+
 ### **开始**
     
 #### 1.clone
