@@ -22,25 +22,31 @@ td span {
 
 列出这些书，既能督促自己读书，又能督促自己读书，何乐不为？
 
-正在读|  |  |
------|---|--
-![Linux shell 脚本攻略][linux_shell_cookbook] | ![MySQL必知必会][mysql_crash_course] |![Pro Git][pro_git] | <span colspan=3>|<span colspan=3>|
-
-
-[linux_shell_cookbook]: reading/index/linux_shell_cookbook.jpg
-[mysql_crash_course]: reading/index/mysql_crash_course.jpg
-[pro_git]: reading/index/pro_git.jpg
+正在读|  |  
+---|---|---
+![UNIX环境高级编程][unix_programing]| ![MySQL必知必会][mysql_crash_course] |![Pro Git][pro_git] 
 
 
 想读|  |  | 
-------|--|--|--
-![Linux shell 脚本攻略](reading/index/linux_shell_cookbook_v2.jpg) |![Pro Git](reading/index/pro_git_v2.jpg "Pro Git") |![Pro Git](reading/index/pro_git_v2.jpg "Pro Git") |![Pro Git](reading/index/pro_git_v2.jpg "Pro Git") 
+---|---|---|---
+![精通Python设计模式][python_design_patterns] | ![这就是搜索引擎][this_is_search_engine] | ![大教堂与集市][cathedral_bazaar]
+![自由软件 自由社会][free_software_free_society] |  |
+
+读过|  |   
+---|---|---
+![Linux shell 脚本攻略][linux_shell_cookbook] |![量子物理史话:上帝掷骰子吗][dose_god_play_dice] |![三体全集][three_body]|
+![Pro Git][pro_git] |  | 
 
 
-读过|  |  | 
-------|--|--|--
-![量子物理史话:上帝掷骰子吗][dose_god_play_dice] |![三体全集][three_body]|![Pro Git](reading/index/pro_git_v2.jpg "Pro Git") 
 
 [dose_god_play_dice]: reading/index/dose_god_play_dice.jpg
 [three_body]: reading/index/three_body.jpg
-
+[linux_shell_cookbook]: reading/index/linux_shell_cookbook.jpg
+[mysql_crash_course]: reading/index/mysql_crash_course.jpg
+[pro_git]: reading/index/pro_git.jpg
+[cs_foundation]: reading/index/foundation_of_computer_science.jpg
+[python_design_patterns]: reading/index/python_design_patterns.jpg
+[this_is_search_engine]: reading/index/this_is_search_engine.jpg
+[unix_programing]: reading/index/unix_programing.jpg
+[cathedral_bazaar]: reading/index/cathedral_bazaar.gif
+[free_software_free_society]: reading/index/free_software_free_society.png
