@@ -14,6 +14,7 @@ td span {
     display: inline-block;
     width: 100%;
     text-align: center;
+    font-size: small;
 }
 </style>
 
@@ -25,7 +26,7 @@ td span {
 正在读|  |  
 ---|---|---
 ![UNIX环境高级编程][unix_programing]| ![MySQL必知必会][mysql_crash_course] |![Pro Git][pro_git] 
-
+![python学习笔记][python_notes] | |
 
 想读|  |  | 
 ---|---|---|---
@@ -35,7 +36,7 @@ td span {
 读过|  |   
 ---|---|---
 ![Linux shell 脚本攻略][linux_shell_cookbook] |![量子物理史话:上帝掷骰子吗][dose_god_play_dice] |![三体全集][three_body]|
-![Pro Git][pro_git] |  | 
+![Pro Git][pro_git] | ![python学习笔记][python_notes] | 
 
 
 
@@ -50,3 +51,4 @@ td span {
 [unix_programing]: reading/index/unix_programing.jpg
 [cathedral_bazaar]: reading/index/cathedral_bazaar.gif
 [free_software_free_society]: reading/index/free_software_free_society.png
+[python_notes]: reading/index/python_notes.png
