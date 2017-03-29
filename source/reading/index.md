@@ -4,8 +4,9 @@ title: 读书
 date: 2017-03-15 21:51:22
 ---
 <style>
-td {
-    width: 33%;
+table td {
+    width: 25%;
+    padding: 5px;
 }
 tbody img {
     height: 200px;
@@ -23,21 +24,19 @@ td span {
 
 列出这些书，既能督促自己读书，又能督促自己读书，何乐不为？
 
-正在读|  |  
----|---|---
-![UNIX环境高级编程][unix_programing]| ![MySQL必知必会][mysql_crash_course] |![Pro Git][pro_git] 
-![python学习笔记][python_notes] | |
-
-想读|  |  | 
+在读|  |  |
 ---|---|---|---
-![精通Python设计模式][python_design_patterns] | ![这就是搜索引擎][this_is_search_engine] | ![大教堂与集市][cathedral_bazaar]
-![自由软件 自由社会][free_software_free_society] |  |
+![UNIX环境高级编程][unix_programing] | ![MySQL必知必会][mysql_crash_course] | |
 
-读过|  |   
----|---|---
-![Linux shell 脚本攻略][linux_shell_cookbook] |![量子物理史话:上帝掷骰子吗][does_god_play_dice] |![三体全集][three_body]|
-![Pro Git][pro_git] | ![python学习笔记][python_notes] | 
+想读|  |  |
+---|---|---|---
+![精通Python设计模式][python_design_patterns] | ![这就是搜索引擎][this_is_search_engine] | ![大教堂与集市][cathedral_bazaar] | ![自由软件 自由社会][free_software_free_society]
+![改善Python程序的91个建议][91_suggestion] | ![Python高手之路][hacker_guide_to_python] | ![Python高级编程][expert_python_programing] | |
 
+读过|  |  |
+---|---|---|---
+![Linux shell 脚本攻略][linux_shell_cookbook] | ![量子物理史话:上帝掷骰子吗][does_god_play_dice] | ![三体全集][three_body] | ![Pro Git][pro_git]
+![python学习笔记][python_notes] | ![改善Python程序的91个建议][91_suggestion]  | |
 
 
 [does_god_play_dice]: reading/index/does_god_play_dice.jpg
@@ -52,3 +51,7 @@ td span {
 [cathedral_bazaar]: reading/index/cathedral_bazaar.gif
 [free_software_free_society]: reading/index/free_software_free_society.png
 [python_notes]: reading/index/python_notes.png
+[91_suggestion]: reading/index/91_suggestion_improve_python.jpg
+[expert_python_programing]: reading/index/expert_python_programing.jpg
+[hacker_guide_to_python]: reading/index/hacker_guide_to_python.jpg
+
