@@ -35,12 +35,12 @@ td span {
 
 读过|  |   
 ---|---|---
-![Linux shell 脚本攻略][linux_shell_cookbook] |![量子物理史话:上帝掷骰子吗][dose_god_play_dice] |![三体全集][three_body]|
+![Linux shell 脚本攻略][linux_shell_cookbook] |![量子物理史话:上帝掷骰子吗][does_god_play_dice] |![三体全集][three_body]|
 ![Pro Git][pro_git] | ![python学习笔记][python_notes] | 
 
 
 
-[dose_god_play_dice]: reading/index/dose_god_play_dice.jpg
+[does_god_play_dice]: reading/index/does_god_play_dice.jpg
 [three_body]: reading/index/three_body.jpg
 [linux_shell_cookbook]: reading/index/linux_shell_cookbook.jpg
 [mysql_crash_course]: reading/index/mysql_crash_course.jpg
