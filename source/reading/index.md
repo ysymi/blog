@@ -26,12 +26,12 @@ td span {
 
 在读|  |  |
 ---|---|---|---
-![UNIX环境高级编程][unix_programing] | ![MySQL必知必会][mysql_crash_course] | |
+![UNIX环境高级编程][unix_programing] | ![图解网络硬件][graphic_analysis_net_device] | ![MySQL必知必会][mysql_crash_course] | |
 
 想读|  |  |
 ---|---|---|---
-![精通Python设计模式][python_design_patterns] | ![这就是搜索引擎][this_is_search_engine] | ![大教堂与集市][cathedral_bazaar] | ![自由软件 自由社会][free_software_free_society]
-![改善Python程序的91个建议][91_suggestion] | ![Python高手之路][hacker_guide_to_python] | ![Python高级编程][expert_python_programing] | |
+![精通Python设计模式][python_design_patterns] | ![大教堂与集市][cathedral_bazaar] | ![自由软件 自由社会][free_software_free_society] | ![Python高手之路][hacker_guide_to_python] 
+![Python高级编程][expert_python_programing] |  ![这就是搜索引擎][this_is_search_engine] | |
 
 读过|  |  |
 ---|---|---|---
@@ -54,4 +54,4 @@ td span {
 [91_suggestion]: reading/index/91_suggestion_improve_python.jpg
 [expert_python_programing]: reading/index/expert_python_programing.jpg
 [hacker_guide_to_python]: reading/index/hacker_guide_to_python.jpg
-
+[graphic_analysis_net_device]: reading/index/graphic_analysis_net_device.jpg
