@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 # URL
 url: http://ffun.in
 root: /
-permalink: :year/:month/:title/
+permalink: posts/:title/
 permalink_defaults:
 
 # Directory
