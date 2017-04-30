@@ -39,22 +39,22 @@ td span {
 ![python学习笔记][python_notes] | ![改善Python程序的91个建议][91_suggestion]  | ![图解网络硬件][graphic_analysis_net_device]|![Python高手之路][hacker_guide_to_python]
 ![Redis设计与实现][redis_design_and_implementation]| | |
 
-[does_god_play_dice]: reading/index/does_god_play_dice.jpg
-[three_body]: reading/index/three_body.jpg
-[linux_shell_cookbook]: reading/index/linux_shell_cookbook.jpg
-[mysql_crash_course]: reading/index/mysql_crash_course.jpg
-[pro_git]: reading/index/pro_git.jpg
-[cs_foundation]: reading/index/foundation_of_computer_science.jpg
-[python_design_patterns]: reading/index/python_design_patterns.jpg
-[this_is_search_engine]: reading/index/this_is_search_engine.jpg
-[unix_programing]: reading/index/unix_environment_programing.jpg
+[does_god_play_dice]: reading/index/does_god_play_dice.png
+[three_body]: reading/index/three_body.png
+[linux_shell_cookbook]: reading/index/linux_shell_cookbook.png
+[mysql_crash_course]: reading/index/mysql_crash_course.png
+[pro_git]: reading/index/pro_git.png
+[cs_foundation]: reading/index/foundation_of_computer_science.png
+[python_design_patterns]: reading/index/python_design_patterns.png
+[this_is_search_engine]: reading/index/this_is_search_engine.png
+[unix_programing]: reading/index/unix_environment_programing.png
 [cathedral_bazaar]: reading/index/cathedral_bazaar.gif
 [free_software_free_society]: reading/index/free_software_free_society.png
 [python_notes]: reading/index/python_notes.png
-[91_suggestion]: reading/index/91_suggestion_improve_python.jpg
-[expert_python_programing]: reading/index/expert_python_programing.jpg
-[hacker_guide_to_python]: reading/index/hacker_guide_to_python.jpg
-[graphic_analysis_net_device]: reading/index/graphic_analysis_net_device.jpg
+[91_suggestion]: reading/index/91_suggestion_improve_python.png
+[expert_python_programing]: reading/index/expert_python_programing.png
+[hacker_guide_to_python]: reading/index/hacker_guide_to_python.png
+[graphic_analysis_net_device]: reading/index/graphic_analysis_net_device.png
 [redis_design_and_implementation]: reading/index/redis_design_and_implementation.jpg
 [from_one_to_infinite]: reading/index/from_one_to_infinite.jpg
 [human_history]: reading/index/brief_history_of_humankind.jpg
