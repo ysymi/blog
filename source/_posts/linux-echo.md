@@ -3,6 +3,7 @@ title: "Linux命令学习: echo"
 toc: true
 date: 2017-03-13 00:17:47
 updated: 2017-03-13 00:17:47
+categories: [Linux命令学习]
 tags: [linux, shell]
 ---
 

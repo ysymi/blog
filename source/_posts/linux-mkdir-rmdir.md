@@ -3,6 +3,7 @@ title: "Linux命令学习: mkdir & rmdir"
 toc: true
 date: 2017-04-28 09:44:41
 updated: 2017-04-28 09:44:41
+categories: [Linux命令学习]
 tags: [linux, shell]
 ---
 

@@ -3,6 +3,7 @@ title: 设计模式学习
 toc: true
 date: 2017-05-04 21:19:48
 updated: 2017-05-04 21:19:48
+categories: [设计模式学习]
 tags: [设计模式]
 ---
 

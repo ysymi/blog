@@ -3,6 +3,7 @@ title: Linux命令与工具学习
 toc: true
 date: 2017-04-28 18:14:46
 updated: 2017-04-28 18:14:46
+categories: [Linux命令学习]
 tags: [Linux]
 ---
 
