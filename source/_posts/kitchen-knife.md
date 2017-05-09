@@ -1,6 +1,6 @@
 ---
 title: 菜刀，还是要经常磨的
-toc: true
+toc: false
 date: 2017-05-07 22:44:58
 updated: 2017-05-07 22:44:58
 tags: [生活感悟]
