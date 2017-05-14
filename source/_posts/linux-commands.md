@@ -22,7 +22,8 @@ tags: [Linux]
 - ** ssh: (security shell) 实现ssh协议的软件，一般是指openssh **
 - ** dd: (data duplicator) 从一个文件拷贝数据到另一个文件 **
 - ** info **
-- ** man ** 
+- ** man ** 打开命令的手册页
+- ** setterm ** 对终端进行设定
 
 
 ### 其他
