@@ -1,9 +1,9 @@
 ---
-title: economics-note-02
+title: "经济学笔记02: 专业化和贸易" 
 toc: true
 date: 2017-07-26 00:36:58
 updated: 2017-07-26 00:36:58
-tags:
+tags: ['经济学']
 ---
 
 #### 回顾
