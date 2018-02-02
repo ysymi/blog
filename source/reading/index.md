@@ -27,6 +27,7 @@ td span {
 在读|  |  |
 ---|---|---|---
 ![UNIX环境高级编程][unix_programing] | ![精通Python设计模式][python_design_patterns] | ![MySQL必知必会][mysql_crash_course] | ![Python Web开发实战][python_web_develop]
+![非暴力沟通][nonviolent-communication] |  |  | 
 
 想读|  |  |
 ---|---|---|---
@@ -65,3 +66,4 @@ td span {
 [investiture_of_the_gods]: reading/index/investiture_of_the_gods.jpg
 [progress]: reading/index/progress.jpg
 [shortest_history_of_europe]: reading/index/shortest_history_of_europe.jpg
+[nonviolent-communication]: reading/index/nonviolent-communication.jpg
